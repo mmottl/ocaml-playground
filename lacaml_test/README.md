@@ -17,7 +17,8 @@ Files in this project
   * `_tags` - contains flags to be used by `ocamlbuild` when building the project.
   * Makefile - contains rules for `make` that merely invoke `ocamlbuild`.
 
-To build this project, just execute:
+To build this project and run the example, just execute:
 
     :::sh
     make
+    lacaml_test.native
