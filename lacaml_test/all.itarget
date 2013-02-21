@@ -1,0 +1,2 @@
+# "ocamlbuild -use-ocamlfind all.otarget" will build everything in here
+lacaml_test.native
