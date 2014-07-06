@@ -19,6 +19,7 @@ Files in this project
 
 To build this project and run the example, just execute:
 
-    :::sh
-    make
-    lacaml_test.native
+```sh
+make
+lacaml_test.native
+```

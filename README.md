@@ -18,8 +18,6 @@ In the case of bugs, feature requests, contributions and similar, you can
 contact me here: <markus.mottl@gmail.com>
 
 Up-to-date information should be available at:
-<https://bitbucket.org/mmottl/ocaml-playground>
+<http://mmottl.github.io/ocaml-playground>
 
 Enjoy!
-
-Markus Mottl in Rutherford, NJ on February 21, 2013
