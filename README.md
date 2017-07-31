@@ -14,10 +14,8 @@ going with OCaml.  Each directory represents a self-contained example.
 Contact Information and Contributing
 ------------------------------------
 
-In the case of bugs, feature requests, contributions and similar, you can
-contact me here: <markus.mottl@gmail.com>
+Please submit bugs reports, feature requests, contributions and similar to
+the [GitHub issue tracker](https://github.com/mmottl/ocaml-playground/issues).
 
-Up-to-date information should be available at:
-<http://mmottl.github.io/ocaml-playground>
-
-Enjoy!
+Up-to-date information is available at:
+<https://mmottl.github.io/ocaml-playground>
