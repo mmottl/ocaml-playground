@@ -1,0 +1,8 @@
+title: Ocaml-playground
+description: This project contains small code examples to get people going with OCaml.  Each directory represents a self-contained example.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
