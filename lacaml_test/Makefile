@@ -1,6 +1,9 @@
-all:
-	ocamlbuild -use-ocamlfind all.otarget
+TARGETS = $(addsuffix .bc, lacaml_test)
 
-.PHONY:
+.PHONY: all clean
+
+all:
+	@jbuilder build --dev $(TARGETS)
+
 clean:
-	ocamlbuild -clean
+	@jbuilder clean

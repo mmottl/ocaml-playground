@@ -1,8 +1,0 @@
-# Warnings
-true: warn(Aer-44-45)
-
-# Generate type annotation file and support threads
-true: annot, thread
-
-# Link
-true: package(lacaml)
