@@ -1,0 +1,5 @@
+(executable
+  (name lacaml_test)
+  (flags (:standard -w -9 -principal))
+  (libraries lacaml)
+)
