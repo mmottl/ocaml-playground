@@ -1,24 +1,28 @@
-lacaml\_test - a simple Lacaml project
-=====================================
+# `lacaml_test`
 
----------------------------------------------------------------------------
+A simple project demonstrating the use of Lacaml in OCaml.
 
-Requirements
-------------
+## Requirements
 
-  1. Use [OPAM](https://opam.ocaml.org) to install OCaml.
-  2. Install Lacaml by executing: `opam install lacaml`
+1. Install [OPAM](https://opam.ocaml.org) to manage OCaml packages.
 
-Files in this project
----------------------
+2. Install Lacaml via OPAM:
 
-  * `lacaml_test.ml` - demonstrates how to create a random matrix and print it using Lacaml.
-  * `jbuild` - contains specification of project
-  * Makefile - contains rules for `make` that merely invoke `jbuilder`.
+   ```sh
+   opam install lacaml
+   ```
 
-To build this project and run the example, just execute:
+## Project Files
+
+- `lacaml_test.ml`: Demonstrates creating and printing a random matrix
+  using Lacaml.
+- `jbuild`: Project specification file.
+- `Makefile`: Contains rules for `make` to invoke `jbuilder`.
+
+## Building and Running
+
+To build and run the example, use:
 
 ```sh
-make
-_build/default/lacaml_test.bc
+dune exec ./lacaml_test.exe
 ```
