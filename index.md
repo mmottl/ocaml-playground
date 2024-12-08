@@ -1,14 +1,15 @@
-## OCaml Playground - OCaml stuff shared for educational purposes
+# OCaml Playground
 
-### What is OCaml Playground?
+Explore OCaml through small, self-contained code examples designed for learning.
 
-This project contains small code examples shared with the world to get people
-going with OCaml.  Each directory represents a self-contained example.
+## Overview
 
-### Contact Information and Contributing
+OCaml Playground offers a collection of concise code snippets to help you get
+started with OCaml. Each directory contains an independent example.
 
-Please submit bugs reports, feature requests, contributions and similar to
-the [GitHub issue tracker](https://github.com/mmottl/ocaml-playground/issues).
+## Contributing and Support
 
-Up-to-date information is available at:
-<https://mmottl.github.io/ocaml-playground>
+For bug reports, feature requests, or contributions, please use the
+[GitHub issue tracker](https://github.com/mmottl/ocaml-playground/issues).
+
+Stay updated by visiting our [project page](https://mmottl.github.io/ocaml-playground).
